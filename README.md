@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Full-Stack Developer | Firebase · Django · React · Flutter <br>
-📍 Kerala, India &nbsp;|&nbsp; 🌐 Open to Remote Work
+📍 Kerala, India &nbsp;|&nbsp; 🌐 Open to Work
 </p>
 
 
